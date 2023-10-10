@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My CV</title>
+</head>
+<body>
+  <h1>Personal Information</h1>
+  <ul>
+    <li>Name: yash</li>
+    <li>Address: xyz</li>
+    <li>Phone: 0000000000</li>
+    <li>Email: abc.com</li>
+  </ul>
+
+  <h1>Education</h1>
+  <ul>
+    <li>Bachelor of Science in Computer Science, niet, 2023</li>
+    <li>Master of Science in Computer Science, University of California, Berkeley, 2025</li>
+  </ul>
+
+  <h1>Work Experience</h1>
+  <ul>
+    <li>Software Engineer, Google, 2030-Present</li>
+    <li>Software Engineer Intern, Microsoft, 2035</li>
+  </ul>
+
+  <h1>Skills</h1>
+  <ul>
+    <li>Java</li>
+    <li>Python</li>
+    <li>C++</li>
+    <li>SQL</li>
+    <li>NoSQL</li>
+    <li>Machine Learning</li>
+    <li>Natural Language Processing</li>
+  </ul>
+
+  <h1>Awards and Honors</h1>
+  <ul>
+    <li>Dean's List, Stanford University</li>
+    <li>Dean's List, University of California, Berkeley</li>
+    <li>Google Top Performer Award, 2027</li>
+    <li>Microsoft Intern of the Year Award, 2028</li>
+  </ul>
+
+  <h1>References</h1>
+  <ul>
+    <li>Available upon request.</li>
+  </ul>
+</body>
+</html>
